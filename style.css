@@ -14,8 +14,8 @@ div {
   .container{
     width: 23rem;
     height: 23rem;
-    margin-left: 16rem;
-    
+    margin-left: 38%;
+    align: center;
   }
   .centered {
     position: absolute;
